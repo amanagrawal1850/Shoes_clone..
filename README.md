@@ -1,1 +1,3 @@
 # Shoes_clone..
+
+Easy to perchase tha shoes in our side.......
